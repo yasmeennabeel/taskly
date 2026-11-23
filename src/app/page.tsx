@@ -1,8 +1,5 @@
 export default function Home() {
-  return <div className="bg-hint rounded-x text-subtle flex flex-col ">
+  return <div className="bg-lightblue-400  text-navy-900 w-full h-full ">
     Home Page
-    <label>Email</label>
-    <input placeholder="write something"></input>
-
   </div>;
 }
