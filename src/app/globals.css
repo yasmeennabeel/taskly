@@ -37,7 +37,6 @@
 
   --color-white: #ffffff;
   --color-black: #000000;
-
 }
 
 * {
@@ -126,6 +125,4 @@ body {
       line-height: 2rem;
     }
   }
-
-
 }
