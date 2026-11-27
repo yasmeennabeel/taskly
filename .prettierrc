@@ -3,5 +3,6 @@
   "singleQuote": true,
   "trailingComma": "all",
   "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindFunctions": ["cn", "clsx"],
   "tailwindStylesheet": "./src/app/globals.css"
 }
